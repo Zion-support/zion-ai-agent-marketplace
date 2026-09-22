@@ -1,15 +1,19 @@
-# 📐 Zion App Network — Interlinks
+# zion-ai-agent-marketplace — Zion App Network
 
-**zion-ai-agent-marketplace** is part of the Zion Tech Group app network (630+ apps).
+Zion AI Agent Marketplace — discover, rate and monetize autonomous AI agents.
 
-- 🗃️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
+- Live app: https://ziontechgroup.com/zion-ai-agent-marketplace
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [zion-ai-agent-orchestrator](https://github.com/Zion-support/zion-ai-agent-orchestrator) — multi-agent orchestration platform
-- [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — agent fleet management
-- [agents](https://github.com/Zion-support/agents) — Zion Agents hub
-- [zion-agentforge](https://github.com/Zion-support/zion-agentforge) — agent building framework
+## Related apps (AI Agents & LLM Tooling)
+- [zion-agentforge](https://agentforge.ziontechgroup.com) — design, test and govern multi-agent systems
+- [zion-ai-agent-orchestrator](https://orchestrator.ziontechgroup.com) — multi-agent orchestration platform
+- [ai-agent-fleet](https://ai-agent-fleet.ziontechgroup.com) — manage fleets of AI agents
+- [ai-agent-swarm](https://ai-agent-swarm.ziontechgroup.com) — coordinated agent swarms
+- [zion-agents](https://zion-support.github.io/zion-agents/) — autonomous AI agent fleet
+- [zion-ai-chatbot-builder](https://chatbot-builder.ziontechgroup.com) — AI chatbot builder
 
 ---
-📐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
