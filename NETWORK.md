@@ -1,10 +1,16 @@
-# Zion AI Agent Marketplace
+# 🌐 Zion App Network — Interlinks
 
-Marketplace for AI agents.
+**zion-ai-agent-marketplace** is part of the Zion Tech Group app network (630+ apps).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-agent-builder](https://github.com/Zion-support/zion-ai-agent-builder) · [zion-ai-agent-orchestrator](https://github.com/Zion-support/zion-ai-agent-orchestrator) · [zion-agentforge](https://github.com/Zion-support/zion-agentforge) · [zion-agents](https://github.com/Zion-support/zion-agents)
+- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [AI Agents & Orchestration](https://github.com/Zion-support/zion-network/blob/main/network/ai-agents-orchestration.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps
+- [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) — visual multi-agent workflow design
+- [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router) — intelligent LLM routing & fallback
+- [prompt-forge](https://github.com/Zion-support/prompt-forge) — build & score prompts
+- [zion-ai-prompt-vault-pro](https://github.com/Zion-support/zion-ai-prompt-vault-pro) — versioned prompt registry
+- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+
+---
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
